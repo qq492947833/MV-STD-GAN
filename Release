@@ -1,0 +1,12 @@
+Tag: v1.0.0
+Release title: MV-STD-GAN v1.0.0 – EMS submission version
+
+This release corresponds to the code, trained models, partial example data,
+and documentation submitted with the manuscript:
+
+“A Unified Multi-Variable Spatiotemporal Downscaling Approach for
+High-Resolution Tropical Cyclone Detection Using Deep Learning.”
+
+The release contains the experimental Notebooks, trained models, environment
+specifications, partial example data, and documentation used for the
+Environmental Modelling & Software submission.
