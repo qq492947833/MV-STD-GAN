@@ -2,7 +2,7 @@
 
 Official code, trained models, and partial example data for the manuscript:
 
-> **MV-STD-GAN: Unified Multi-Variable Spatiotemporal Downscaling of Atmospheric Fields for Tropical Cyclone Detection**
+> **Unified Multi-Variable Spatiotemporal Generative Adversarial Network Downscaling Improves Tropical Cyclone Detection from Coarse-Resolution Climate Data**
 
 ## 1. Overview
 
@@ -732,7 +732,7 @@ When using this repository, please cite the accompanying manuscript:
 
 ```bibtex
 @article{Ye_MV_STD_GAN,
-  title   = {MV-STD-GAN: Unified Multi-Variable Spatiotemporal Downscaling of Atmospheric Fields for Tropical Cyclone Detection},
+  title   = {Unified Multi-Variable Spatiotemporal Generative Adversarial Network Downscaling Improves Tropical Cyclone Detection from Coarse-Resolution Climate Data},
   author  = {Ye, Yuchen and Yuan, Chaoxia and Qi, Zixuan and Cai, Yanpeng
              and Chen, Anqi and Li, Chuang},
   journal = {Manuscript submitted for publication},
